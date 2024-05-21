@@ -1,7 +1,7 @@
 {
   "name": "barryfa",
   "version": "1.0.3",
-  "description": "Bardia Fardar Portfolio Website",
+  "description": "Sujan P Portfolio Website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
